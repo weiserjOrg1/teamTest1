@@ -13,12 +13,14 @@ public class HelloTeam {
 	 */
 	public static void helloFromWeisert1() {
 		System.out.println("An alle liebe Gr¸ﬂe von \"weisert1\"!!!!!!");
+		System.out.println("blabla...");
 		System.out.println("blablablabla");
 		System.out.println("xxxxxxxxxxxxx");
 	}
 	public static void helloFromWeiser1() {
 		System.out.println("Hello to all of you from \"weiser1\"!");
 		System.out.println("blabla");
+		System.out.println("M‰hhh M‰‰‰hhhh!!!!");
 	}
 
 	/**
