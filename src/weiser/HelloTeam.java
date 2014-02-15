@@ -20,7 +20,8 @@ public class HelloTeam {
 
 	/**
 	 * The main method in order to start the program.
-	 * @param args
+	 * @param args Ignored.
+	 * @since 2014-02-15
 	 */
 	public static void main(String[] args) {
 		helloFromWeiser1();
